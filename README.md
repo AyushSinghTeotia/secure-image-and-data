@@ -2,9 +2,9 @@
 
 <p align="center">Decentralized Data Distribution with Ethereum &amp; IPFS</p>
 
-<p align="center"><a href="https://d3faexd4dzuyve.cloudfront.net/"><img alt="" src="https://github.com/aaronchong888/Project-D3/blob/master/img/d3-home.png" width="60%"></a></p>
+<p align="center"><a href=""><img alt="" src="https://github.com/aaronchong888/Project-D3/blob/master/img/d3-home.png" width="60%"></a></p>
 
-<p align="center"><a href="https://d3faexd4dzuyve.cloudfront.net/">https://d3faexd4dzuyve.cloudfront.net/</a></p>
+<p align="center"><a href=""></a></p>
 
 <br> 
 
